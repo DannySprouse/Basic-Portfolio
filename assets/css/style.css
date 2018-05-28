@@ -165,7 +165,7 @@ img {
 
 .left1 {
     float: left;
-    width: 258px;
+    width: 252px;
     color: #fff;
     background-color: #4aaaa5;
     height: 10px;
@@ -174,15 +174,15 @@ img {
     padding: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    margin-left: 15px;
-    margin-top: 165px;
+    margin-left: 23px;
+    margin-top: 175px;
     position: absolute;
     z-index: 3;
 }
 
 .right1 {
     float: left;
-    width: 258px;
+    width: 252px;
     color: #fff;
     background-color: #4aaaa5;
     height: 10px;
@@ -191,7 +191,7 @@ img {
     padding: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    margin-left: 335px;
+    margin-left: 340px;
     margin-top: 165px;
     position: absolute;
     z-index: 3;
